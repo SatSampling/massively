@@ -1,22 +1,22 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Sat Sampling
+subtitle: Survey Sampling using Aerial Imagery
+email: bquast@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/massively" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Bastiaan Quast
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Geneva
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 1201
+country: Switzerland
+phone: +41 786988330
 
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/andrewbanchich
+github_url: https://github.com/
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url:
 instagram_url:
