@@ -1,29 +1,29 @@
 # site settings
-title: Sat Sampling
+title: SatSampling
 subtitle: Survey Sampling using Aerial Imagery
 email: bquast@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: SatSampling provides sampling methods for surveys based on aerial imagery and AI-based methods for household localisation.
 baseurl: "/massively" # the subpath of your site, e.g. /blog
 url: "https://satsampling.github.io" # the base hostname & protocol for your site
 author: Bastiaan Quast
-street_address: 1234 Somewhere Road
+street_address: Quai de Mont Blanc 1
 city: Geneva
-state: TN
+state: Switzerland
 zip_code: 1201
-country: Switzerland
-phone: +41 786988330
+country:
+phone: +41 78.69.88.330
 
 # social settings
 500px_url:
-facebook_url:
-github_url: https://github.com/
-gitlab_url: https://gitlab.com/u/andrewbanchich
+facebook_url: https://www.facebook.com/SatSampling-1917121405242312/
+github_url: https://github.com/satsampling
+gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
