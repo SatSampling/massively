@@ -4,7 +4,7 @@ subtitle: Survey Sampling using Aerial Imagery
 email: bquast@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/massively" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://satsampling.github.io" # the base hostname & protocol for your site
 author: Bastiaan Quast
 street_address: 1234 Somewhere Road
 city: Geneva
