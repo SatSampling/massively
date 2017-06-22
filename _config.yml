@@ -3,7 +3,7 @@ title: SatSampling
 subtitle: Survey Sampling using Aerial Imagery and AI
 email: bquast@gmail.com
 description: SatSampling provides sampling methods for surveys based on aerial imagery and AI-based methods for household localisation.
-baseurl: "/massively" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://satsampling.github.io" # the base hostname & protocol for your site
 author: Bastiaan Quast
 street_address: Quai de Mont Blanc 1
