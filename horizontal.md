@@ -67,7 +67,7 @@ title: SatSampling
 <!-- statistics -->
 <ul class="statistics">
 	<li class="style1">
-		<span class="icon fa-code-globe"></span>
+		<span class="icon fa-globe"></span>
 		<strong>100</strong> Countries
 	</li>
 	<li class="style2">
