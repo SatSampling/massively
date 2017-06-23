@@ -31,7 +31,7 @@ title: SatSampling
 		<h2><a href="link.html">title</a></h2>
 		</header>
 		<p>all the text of the post</p>
-		<a href="link.html" class="image fit"><img src="pic01.jpg" alt="" /></a>
+		<a href="link.html" class="image fit"><img src="houses-grid.jpg" alt="" /></a>
 </article>
 </section>
 
