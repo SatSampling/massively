@@ -24,20 +24,39 @@ title: SatSampling
 		</header>
 </article>
 
-<!-- large icons -->
 <ul class="features">
 	<li>
-		<span class="icon major style1 fa-code"></span>
+		<span class="icon major style1 fa-user-times"></span>
 		<h3>Ipsum consequat</h3>
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 	<li>
-		<span class="icon major style3 fa-camera"></span>
+		<span class="icon major style3 fa-calendar-times-o"></span>
 		<h3>Amed sed feugiat</h3>
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 	<li>
-		<span class="icon major style5 fa-globe"></span>
+		<span class="icon major style5 fa-hand-stop-o"></span>
+		<h3>Dolor nullam</h3>
+		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+	</li>
+</ul>
+
+
+<!-- large icons -->
+<ul class="features">
+	<li>
+		<span class="icon major style1 fa-camera"></span>
+		<h3>Ipsum consequat</h3>
+		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+	</li>
+	<li>
+		<span class="icon major style3 fa-code"></span>
+		<h3>Amed sed feugiat</h3>
+		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+	</li>
+	<li>
+		<span class="icon major style5 fa-user-plus"></span>
 		<h3>Dolor nullam</h3>
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
@@ -46,11 +65,11 @@ title: SatSampling
 <!-- statistics -->
 <ul class="statistics">
 	<li class="style1">
-		<span class="icon fa-code-fork"></span>
+		<span class="icon fa-code-globe"></span>
 		<strong>5,120</strong> Etiam
 	</li>
 	<li class="style2">
-		<span class="icon fa-rocket-o"></span>
+		<span class="icon fa-rocket"></span>
 		<strong>8,192</strong> Magna
 	</li>
 	<li class="style3">
