@@ -33,7 +33,7 @@ some text here. some text here. some text here. some text here. some text here. 
 		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 	</ul>
-<div>
+</div>
 
 <!-- First Section -->
 <article class="post featured">
@@ -56,24 +56,4 @@ some text here. some text here. some text here. some text here. some text here. 
 </ul>
 <article>
 
-				    <!-- Featured Post -->
-				    <article class="post featured">
-						    <header class="major">
-								    <span class="date">April 25, 2017</span>
-								    <h2><a href="#">Census Sampling <br />
-									      causes lost <br />
-										representativeness</a></h2>
-								    <p>Traditional sampling for household survey is done using government censuses,
-									    which can be outdated, or even deliberately underrepresenting certain populations,
-									    rapid urbanisation further exacerbates unrepresentativeness.<br />
-									    SatSampling uses high-resolution satellite imagery in combination with
-									    Artificial Intelligence algorithms, in order to identify all dwellings,
-									    this (literally) ground-up approach, creates truely unbias samples, making surveys
-									    more representative than every before!
-								    </p>
-						    </header>
-						    <a href="#" class="image main"><img src="assets/images/houses-grid.jpg" alt="" /></a>
-						    <ul class="actions">
-								    <li><a href="#" class="button big">Full Story</a></li>
-						    </ul>
-				    </article>
+
