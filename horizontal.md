@@ -53,5 +53,4 @@ some text here. some text here. some text here. some text here. some text here. 
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 </ul>
-</div>
 
