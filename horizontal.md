@@ -1,6 +1,6 @@
 ---
-layout: page
-title: horizonal
+layout: landing
+title: SatSampling
 ---
 
 <!-- Featured Post -->
