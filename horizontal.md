@@ -11,6 +11,26 @@ some text here. some text here. some text here. some text here. some text here. 
 		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 	</ul>
 <div>
 
@@ -33,10 +53,5 @@ some text here. some text here. some text here. some text here. some text here. 
 				<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 			</li>
 		</ul>
-		<footer class="major">
-			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn More</a></li>
-			</ul>
-		</footer>
 </div>
 
