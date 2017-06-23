@@ -29,7 +29,7 @@ title: SatSampling
 		<span class="icon major style1 fa-calendar-times-o"></span>
 		<h3>Decades Out of Date</h3>
 		<p>In certain countries, the last census may be decades old,
-		unable to capture the rapid urbanisation that has taken place since.</p>
+		entirely unreflective of the rapid urbanisation that has taken place since.</p>
 	</li>
 	<li>
 		<span class="icon major style3 fa-hand-stop-o"></span>
@@ -38,9 +38,9 @@ title: SatSampling
 	</li>
 	<li>
 		<span class="icon major style5 fa-user-times"></span>
-		<h3>Substantial Exclusion</h3>
-		<p>Reasons such as these and more, exclude large swaths of the population,
-		introducing a bias in surveys before they even begin.</p>
+		<h3>Unrepresented Populations</h3>
+		<p>For reasons such as these and more, census-based surveys exclude large swaths of the population,
+		introducing a bias before they even begin.</p>
 	</li>
 </ul>
 
@@ -49,18 +49,18 @@ title: SatSampling
 <ul class="features">
 	<li>
 		<span class="icon major style1 fa-camera"></span>
-		<h3>Ipsum consequat</h3>
-		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+		<h3>Aerial Imagery</h3>
+		<p>High resolution satellite and other aerial imagery, is used to build a dataset from the ground up.</p>
 	</li>
 	<li>
 		<span class="icon major style3 fa-code"></span>
-		<h3>Amed sed feugiat</h3>
-		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+		<h3>Artificial Intelligence</h3>
+		<p>Artificial Intelligence algorithms together with human supervision is used to identify houses</p>
 	</li>
 	<li>
 		<span class="icon major style5 fa-user-plus"></span>
-		<h3>Dolor nullam</h3>
-		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+		<h3>Representative</h3>
+		<p>Ground-up data, together with modern computer techniques allow for representative sampling.</p>
 	</li>
 </ul>
 
@@ -68,23 +68,23 @@ title: SatSampling
 <ul class="statistics">
 	<li class="style1">
 		<span class="icon fa-code-globe"></span>
-		<strong>5,120</strong> Etiam
+		<strong>100</strong> Countries
 	</li>
 	<li class="style2">
 		<span class="icon fa-rocket"></span>
-		<strong>8,192</strong> Magna
+		<strong>8,192</strong> Space technology
 	</li>
 	<li class="style3">
 		<span class="icon fa-signal"></span>
-		<strong>2,048</strong> Tempus
+		<strong>2,048</strong> pixels / km2
 	</li>
 	<li class="style4">
 		<span class="icon fa-laptop"></span>
-		<strong>4,096</strong> Aliquam
+		<strong>4,096</strong>
 	</li>
 	<li class="style5">
 		<span class="icon fa-image"></span>
-		<strong>1,024</strong> Nullam
+		<strong>1,024</strong> km2 of images
 	</li>
 </ul>
 
