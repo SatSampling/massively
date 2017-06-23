@@ -15,9 +15,6 @@ title: SatSampling
 				</p>
 		</header>
 		<a href="#" class="image main"><img src="assets/images/houses-grid.jpg" alt="" /></a>
-		<ul class="actions">
-				<li><a href="#" class="button big">Full Story</a></li>
-		</ul>
 		<header class="major">
 			<p>SatSampling uses high-resolution satellite imagery in combination with
 					Artificial Intelligence algorithms, in order to identify all dwellings,
