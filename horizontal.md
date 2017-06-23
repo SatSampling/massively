@@ -27,11 +27,17 @@ title: SatSampling
 
 <section class="posts">
 	<article>
-		<header>
-		<h2><a href="link.html">title</a></h2>
-		</header>
-		<p>all the text of the post</p>
-		<a href="link.html" class="image fit"><img src="houses-grid.jpg" alt="" /></a>
+		<ul class="features">
+		<li>
+			<header>
+			<h2><a href="link.html">title</a></h2>
+			</header>
+			<p>all the text of the post</p>
+		</li>
+		<li>
+			<a href="link.html" class="image fit"><img src="houses-grid.jpg" alt="" /></a>
+		</li>
+		</ul>
 </article>
 </section>
 
