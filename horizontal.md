@@ -11,17 +11,20 @@ title: SatSampling
 										representativeness</a></h2>
 				<p>Traditional sampling for household survey is done using government censuses,
 					which can be outdated, or even deliberately underrepresenting certain populations,
-					rapid urbanisation further exacerbates unrepresentativeness.<br />
-					SatSampling uses high-resolution satellite imagery in combination with
-					Artificial Intelligence algorithms, in order to identify all dwellings,
-					this (literally) ground-up approach, creates truely unbias samples, making surveys
-					more representative than every before!
+					rapid urbanisation further exacerbates unrepresentativeness.
 				</p>
 		</header>
 		<a href="#" class="image main"><img src="assets/images/houses-grid.jpg" alt="" /></a>
 		<ul class="actions">
 				<li><a href="#" class="button big">Full Story</a></li>
 		</ul>
+		<header class="major">
+			<p>SatSampling uses high-resolution satellite imagery in combination with
+					Artificial Intelligence algorithms, in order to identify all dwellings,
+					this (literally) ground-up approach, creates truely unbias samples, making surveys
+					more representative than every before.
+			</p>
+		</header>
 </article>
 
 <!-- large icons -->
