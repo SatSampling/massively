@@ -25,6 +25,16 @@ title: SatSampling
 </article>
 <hr/>
 
+<section class="posts">
+	<article>
+		<header>
+		<h2><a href="link.html">title</a></h2>
+		</header>
+		<p>all the text of the post</p>
+		<a href="link.html" class="image fit"><img src="pic01.jpg" alt="" /></a>
+</article>
+</section>
+
 <ul class="features">
 	<li>
 		<span class="icon major style1 fa-calendar-times-o"></span>
