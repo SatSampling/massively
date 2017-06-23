@@ -11,12 +11,12 @@ title: horizonal
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 	<li>
-		<span class="icon major style3 fa-copy"></span>
+		<span class="icon major style3 fa-camera"></span>
 		<h3>Amed sed feugiat</h3>
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 	<li>
-		<span class="icon major style5 fa-diamond"></span>
+		<span class="icon major style5 fa-globe"></span>
 		<h3>Dolor nullam</h3>
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
@@ -29,7 +29,7 @@ title: horizonal
 		<strong>5,120</strong> Etiam
 	</li>
 	<li class="style2">
-		<span class="icon fa-folder-open-o"></span>
+		<span class="icon fa-rocket-o"></span>
 		<strong>8,192</strong> Magna
 	</li>
 	<li class="style3">
@@ -41,7 +41,7 @@ title: horizonal
 		<strong>4,096</strong> Aliquam
 	</li>
 	<li class="style5">
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-image"></span>
 		<strong>1,024</strong> Nullam
 	</li>
 </ul>
