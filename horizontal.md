@@ -64,6 +64,7 @@ title: SatSampling
 	</li>
 </ul>
 
+<hr/>
 <!-- statistics -->
 <div>
 <ul class="statistics">
