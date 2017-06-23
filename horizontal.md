@@ -65,6 +65,7 @@ title: SatSampling
 </ul>
 
 <!-- statistics -->
+<div>
 <ul class="statistics">
 	<li class="style1">
 		<span class="icon fa-globe"></span>
@@ -87,4 +88,5 @@ title: SatSampling
 		<strong>1,024</strong> km2 of images
 	</li>
 </ul>
+<div/>
 
