@@ -15,10 +15,7 @@ some text here. some text here. some text here. some text here. some text here. 
 <div>
 
 <!-- First Section -->
-	<section id="first" class="main special">
-		<header class="major">
-			<h2>Magna veroeros</h2>
-		</header>
+<div>
 		<ul class="features">
 			<li>
 				<span class="icon major style1 fa-code"></span>
@@ -41,3 +38,5 @@ some text here. some text here. some text here. some text here. some text here. 
 				<li><a href="generic.html" class="button">Learn More</a></li>
 			</ul>
 		</footer>
+</div>
+
