@@ -80,7 +80,7 @@ title: SatSampling
 	</li>
 	<li class="style4">
 		<span class="icon fa-laptop"></span>
-		<strong>4,096</strong> state of the art AI
+		<strong>4,096</strong> intelligable results
 	</li>
 	<li class="style5">
 		<span class="icon fa-image"></span>
