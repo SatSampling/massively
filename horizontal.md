@@ -35,12 +35,27 @@ title: SatSampling
 			<p>all the text of the post</p>
 		</li>
 		<li>
-			<a href="link.html" class="image fit"><img src="houses-grid.jpg" alt="" /></a>
+			<a href="link.html" class="image fit"><img src="assets/images/houses-grid.jpg" alt="" /></a>
 		</li>
 		</ul>
-</article>
+	</article>
+	<hr/>
+	<article>
+		<ul class="features">
+		<li>
+			<a href="link.html" class="image fit"><img src="assets/images/houses-grid.jpg" alt="" /></a>
+		</li>
+		<li>
+			<header>
+			<h2><a href="link.html">title</a></h2>
+			</header>
+			<p>all the text of the post</p>
+		</li>
+		</ul>
+	</article>
+	<hr/>
 </section>
-<hr/>
+
 
 <ul class="features">
 	<li>
