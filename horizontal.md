@@ -1,4 +1,4 @@
 ---
-layout: horizontal
-title: homepage
+layout: page
+title: horizonal
 ---
