@@ -36,6 +36,7 @@ some text here. some text here. some text here. some text here. some text here. 
 <div>
 
 <!-- First Section -->
+<article class="post featured">
 <ul class="features">
 	<li>
 		<span class="icon major style1 fa-code"></span>
@@ -53,4 +54,4 @@ some text here. some text here. some text here. some text here. some text here. 
 		<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
 	</li>
 </ul>
-
+<article>
