@@ -1,5 +1,5 @@
 ---
-layout: pagenew
+layout: page
 title: horizonal
 ---
 
