@@ -27,7 +27,7 @@ title: SatSampling
 <ul class="features">
 	<li>
 		<span class="icon major style1 fa-calendar-times-o"></span>
-		<h3>Decades Outdated</h3>
+		<h3>Decades Out of Date</h3>
 		<p>In certain countries, the last census may be decades old,
 		unable to capture the rapid urbanisation that has taken place since.</p>
 	</li>
