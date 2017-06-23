@@ -40,6 +40,7 @@ title: SatSampling
 		</ul>
 </article>
 </section>
+<hr/>
 
 <ul class="features">
 	<li>
