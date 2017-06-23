@@ -23,6 +23,7 @@ title: SatSampling
 			</p>
 		</header>
 </article>
+<hr/>
 
 <ul class="features">
 	<li>
@@ -43,7 +44,7 @@ title: SatSampling
 		introducing a bias before they even begin.</p>
 	</li>
 </ul>
-
+<hr/>
 
 <!-- large icons -->
 <ul class="features">
@@ -63,8 +64,8 @@ title: SatSampling
 		<p>Ground-up data, together with modern computer techniques allow for representative sampling.</p>
 	</li>
 </ul>
-
 <hr/>
+
 <!-- statistics -->
 <div>
 <ul class="statistics">
