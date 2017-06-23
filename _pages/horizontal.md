@@ -1,4 +1,0 @@
----
-layout: horizontal
-title: homepage
----
