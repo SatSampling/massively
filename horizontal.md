@@ -26,9 +26,10 @@ title: SatSampling
 
 <ul class="features">
 	<li>
-		<span class="icon major style1 fa-calendar-times"></span>
+		<span class="icon major style1 fa-calendar-times-o"></span>
 		<h3>Decades Outdated</h3>
-		<p>In certain countries, the last census may be decades old, unable to capture the rapid urbanisation that has taken place since.</p>
+		<p>In certain countries, the last census may be decades old,
+		unable to capture the rapid urbanisation that has taken place since.</p>
 	</li>
 	<li>
 		<span class="icon major style3 fa-hand-stop-o"></span>
@@ -36,9 +37,10 @@ title: SatSampling
 		<p>Censuses might have deliberately excluded vulnerable populations, be in by government or other forces.</p>
 	</li>
 	<li>
-		<span class="icon major style5 fa-user-times-o"></span>
+		<span class="icon major style5 fa-user-times"></span>
 		<h3>Substantial Exclusion</h3>
-		<p>Reasons such as these and more, exclude large swaths of the population, introducing a bias in surveys before they even begin.</p>
+		<p>Reasons such as these and more, exclude large swaths of the population,
+		introducing a bias in surveys before they even begin.</p>
 	</li>
 </ul>
 
