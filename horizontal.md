@@ -3,7 +3,7 @@ layout: page
 title: horizonal
 ---
 
-some text here
+some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here. some text here.
 <div class="6u$ 12u$(small)">
 	<ul class="icons">
 		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
