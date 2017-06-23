@@ -3,39 +3,7 @@ layout: page
 title: horizonal
 ---
 
-some text here. some text here. some text here. some text here. some text here. some text here. some text here.
-some text here. some text here. some text here. some text here. some text here. some text here. some text here.
-<div class="6u$ 12u$(small)">
-	<ul class="icons">
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-	</ul>
-</div>
-
-<!-- First Section -->
+<!-- large icons -->
 <ul class="features">
 	<li>
 		<span class="icon major style1 fa-code"></span>
@@ -54,6 +22,7 @@ some text here. some text here. some text here. some text here. some text here. 
 	</li>
 </ul>
 
+<!-- statistics -->
 <ul class="statistics">
 	<li class="style1">
 		<span class="icon fa-code-fork"></span>
