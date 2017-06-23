@@ -2419,6 +2419,17 @@
 			cursor: default;
 		}
 
+			.icon.major:before {
+				display: inline-block;
+				font-size: 6.25rem;
+				width: 2.25em;
+				height: 2.25em;
+				line-height: 2.2em;
+				border-radius: 100%;
+				border: solid 1px;
+				text-align: center;
+			}
+
 		.icon.style1 {
 			color: #efa8b0;
 		}
