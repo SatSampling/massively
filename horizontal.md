@@ -6,7 +6,6 @@ title: SatSampling
 <!-- Featured Post -->
 <article class="post featured">
 		<header class="major">
-				<span class="date">April 25, 2017</span>
 				<h2><a href="#">Census Sampling <br />
 					  causes lost <br />
 										representativeness</a></h2>
